@@ -130,6 +130,9 @@ celerybeat.pid
 # Environments
 .env
 .venv
+credit
+.credit
+credit/
 env/
 venv/
 ENV/
